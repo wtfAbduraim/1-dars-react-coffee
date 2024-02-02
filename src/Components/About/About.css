@@ -1,0 +1,27 @@
+.about__info {
+  width: 1110px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 80px;
+  margin-bottom: 200px;
+}
+
+.info {
+    width: 450px;
+}
+
+.about__heading {
+  font-family: "Fraunces";
+  font-size: 40px;
+  font-weight: 900px;
+  line-height: 48px;
+  color: #333d4b;
+}
+.about__text {
+  font-family: "Barlow";
+  font-size: 16px;
+  color: #333d4b;
+  font-weight: 400;
+  line-height: 26px;
+}

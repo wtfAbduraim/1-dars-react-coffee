@@ -1,0 +1,34 @@
+.sanji .container {
+    width: 1045px;
+}
+
+.sanji__heading {
+    font-family: "Fraunces";
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    color: #83888F;
+}
+
+.sanji__list {
+    display: flex;
+    gap: 130px;
+}
+
+.sanji__item {
+    width: 285px;
+}
+.sanji__title {
+    font-family: "Fraunces";
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 36px;
+    color: #333D4B;
+}
+.sanji__text {
+    font-family: "Barlow";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #333D4B;
+}

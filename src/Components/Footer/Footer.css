@@ -1,0 +1,32 @@
+.footer .container {
+    display: flex;
+    background-color: #2C343E;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__list {
+    width: 1250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer__info {
+    display: flex;
+    gap: 10px;
+}
+
+.footer__item {
+    display: flex;
+    gap: 20px;
+}
+
+.footer__link {
+    font-family: "Barlow";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    color: #83888F;
+    list-style: none;
+    text-decoration: none;
+}
