@@ -1,4 +1,4 @@
-import "./Header.css";
+import "./Header.scss";
 import CofeLogo from "../img/Cofe-logo.svg";
 
 function Header() {

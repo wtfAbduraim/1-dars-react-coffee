@@ -1,14 +1,18 @@
+.footer {
+    background-color: #2C343E;
+}
+
 .footer .container {
     display: flex;
-    background-color: #2C343E;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
 }
 
 .footer__list {
     width: 1250px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .footer__info {

@@ -1,4 +1,4 @@
-import "./Zoro.css";
+import "./Zoro.scss";
 import ZoroImg from "../img/zoro.png";
 
 function Zoro() {
@@ -18,7 +18,7 @@ function Zoro() {
                 user-friendly coffee, so that brewing is easy and enjoyable.
               </p>
             </div>
-            <img className="zoro__img" src={ZoroImg} alt="" />
+            <img className="zoro__img" src={ZoroImg} alt="zoro" />
           </div>
         </div>
       </section>

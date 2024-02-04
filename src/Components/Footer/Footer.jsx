@@ -1,4 +1,4 @@
-import "./Footer.css";
+import "./Footer.scss";
 import FooterLogo from "../img/footer_logo.svg";
 import FooterLog from "../img/footer_log.svg";
 
@@ -16,13 +16,13 @@ function Footer() {
           />
           <ul className="footer__list">
             <li className="footer__item">
-              <a className="footer__link" href="#">
+              <a className="footer__link" href="#link">
                 Home
               </a>
-              <a className="footer__link" href="#">
+              <a className="footer__link" href="#link">
                 ABOUT US
               </a>
-              <a className="footer__link" href="#">
+              <a className="footer__link" href="#link">
                 Create your plan
               </a>
             </li>

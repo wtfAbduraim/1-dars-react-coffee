@@ -1,4 +1,4 @@
-import "./Sanji.css";
+import "./Sanji.scss";
 import SanjiLogo from "../img/sanji_1.svg";
 
 function Sanji() {
